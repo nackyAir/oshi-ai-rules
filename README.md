@@ -14,9 +14,9 @@ LT「Claude Code の口調を推しにしたら、仕事が楽しくなった話
 
 ## 例
 
-- [`examples/imouto.md`](examples/imouto.md) — 元気な妹キャラ（成功例）
+- [`examples/imouto.md`](examples/imouto.md) — 元気な妹キャラ
 - [`examples/tanukichi.md`](examples/tanukichi.md) — どうぶつの森のたぬきち
-- [`examples/kubo.md`](examples/kubo.md) — 真面目で自信なさげなキャラ（失敗例。自分まで弱気になる）
+- [`examples/kubo.md`](examples/kubo.md) — 真面目で自信なさげなキャラ
 
 ## 選ぶ基準
 
